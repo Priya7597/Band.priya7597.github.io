@@ -392,37 +392,6 @@ top: 2550px;
 
 }
 
-/*
-
-.bground-img{
-
-			background-image:url("gottt7.jpg");
-
-			background-position:center;
-
-			background-size:cover;			
-
-			background-attachment:fixed;
-
-			min-height:auto;
-
- 		width:	100%;
-
-			max-width:100%;
-
-			margin-top:20px;
-
-}
-
-@keyframes change-img{
-
-from{background-image:url("gottt7.jpg");}
-
-to{background-image:url("gott7.jpg");}
-
-}
-
-*/
 
 .headline{
 
@@ -658,31 +627,8 @@ top: 3850px;
 
 }
 
-/*
 
-.btn{
 
-			border:3px solid #c8d8e4;
-
-			padding :10px 10px;
-
-			color:#c8d8e4;
-
-			text-decoration:none;
-
-			transition:0.6s ease;
-
-}
-
-.butn {
-
-			position:absolute;					
-
-			transform:translate(-50%,-50%);
-
-}
-
-*/
 
 .book{
 
@@ -1008,65 +954,11 @@ font-size:1.2vw;
 
 }
 
-/*
 
-.jb{
 
-top: 200px;
 
- left:50%;
 
-}
 
-.mark{
-
-top: 500px;
-
- left:10%;
-
-}
-
-.jack{
-
-top: 700px;
-
- left:35.5%;
-
-}
-
-.jin{
-
-top: 500px;
-
- left:65%;
-
-}
-
-.yongjae{
-
-top: 800px;
-
- left:10%;
-
-}
-
-.bb{
-
-top: 800px;
-
- left:35.5%;
-
-}
-
-.yg{
-
-top:800px;
-
- left:65%;
-
-}
-
-*/
 
 p{
 
